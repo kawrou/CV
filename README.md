@@ -1,6 +1,7 @@
 # Alan Henry Gardiner
 
-## Summary
+## Profile
+Full-stack software developer with experience building and deploying web applications using JavaScript, TypeScript, React, Node.js, Python, PostgreSQL and MongoDB. Skilled in writing modular UI components and maintainable code, quickly adapting to new tools. Experienced in Git, Docker, CI/CD and delivering well-test code through TDD. Passionate about working in collaborative, Agile teams that prioritise user-focused development and continuous learning.
 
 ## Projects:
 | Title | Description | Technologies |
@@ -67,8 +68,6 @@ I'm a practicing artist working mainly with photography, video and installation.
 - **2019** - You are a boundless net of love that easily trapped me - Show and Tell - Seoul, Korea
 - **2016** - Paper Tiger, Wooden Horse - Banana Jam Space - Shenzhen, China 
 -->
-
-
 
 ## Hobbies & Other Interests
 - **Art:** Had exhibitions in England, China, and Korea.
